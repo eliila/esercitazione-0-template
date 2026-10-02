@@ -27,7 +27,10 @@ Esito dopo la modifica e spiegazione della correzione: a seguito dell'inseriment
 
 Quali file ho incluso nel commit e perché: nel commit ho incluso: hello.c, contenente il codice dell'esercizio e osservazioni.md contenente le risposte del commit dell'esercitazione, al fine di salvarli nel repository.
 
-Come ho verificato che la versione provata sia presente su GitHub: andando sul browser di github ed aprendo la sezione commits abbiamo verificato la presenza dei file.  
+<<<<<<< HEAD
+=======
+Come ho verificato che la versione provata sia presente su GitHub: andando sul browser di github ed aprendo la sezione commits abbiamo verificato la presenza del file.  
+>>>>>>> 63d782883aa4fa6f3dd4f35d520955dc441bb491
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 
